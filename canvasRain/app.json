@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/rain"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "RainAnimation",
+    "navigationBarTextStyle": "white",
+    "navigationStyle": "custom"
+  }
+}
