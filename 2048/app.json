@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/game"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "2048",
+    "navigationBarTextStyle":"black"
+  }
+}
