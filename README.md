@@ -11,9 +11,13 @@
 
 > 2048 游戏
 
+![2048](/images/2048.gif)
+
 **canvasRain**
 
 > 下雨天气动画
+
+![rain](/images/rain.gif)
 
 ## 开源协议
 
