@@ -1,0 +1,11 @@
+<view>
+    <canvas class="background" canvas-id="background" disable-scroll="true"></canvas>
+    <cover-view class="clear-scroll"></cover-view>
+    <swiper class="background-image" autoplay="true" circular="true" interval="5000" duration="500">
+        <block wx:for="{{imageFiles}}" wx:key="*this">
+            <swiper-item>
+                <image class="background-image-item" mode="aspectFill" src="{{item}}" />
+            </swiper-item>
+        </block>
+    </swiper>
+</view>

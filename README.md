@@ -19,6 +19,12 @@
 
 ![rain](/images/rain.gif)
 
+**flotage**
+
+> 漂浮物
+
+![rain](/images/flotage.gif)
+
 ## 开源协议
 
 MIT License

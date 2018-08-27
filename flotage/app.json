@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/show/show"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "漂浮物",
+    "navigationBarTextStyle":"black",
+    "navigationStyle": "custom"
+  }
+}
